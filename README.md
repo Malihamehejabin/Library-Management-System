@@ -77,6 +77,6 @@ library-management/
 
 ## 👨‍💻 Author
 
-Crafted with ❤️ by Mantra Patil 
+Crafted with ❤️ by Maliha Mehejabin
 
 **⚡ Pro Tip: You can use this system as a foundation for a full-fledged digital library app with persistence and user management.**

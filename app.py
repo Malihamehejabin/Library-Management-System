@@ -76,7 +76,7 @@ def main():
     )
     
     st.sidebar.markdown("---")
-    st.sidebar.info("Crafted with ❤️ by Mantra Patil")
+    st.sidebar.info("Crafted with ❤️ by Maliha Mehejabin")
     
     if action == "View Books":
         st.header("📖 All Books")
